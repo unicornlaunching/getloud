@@ -1,4 +1,6 @@
 import streamlit as st
+import ffmpeg
+
 from pydub import AudioSegment
 from tempfile import NamedTemporaryFile
 
